@@ -11,6 +11,12 @@ https://cipher387.github.io/osint_stuff_tool_collection/
 
 I am also slowly developing my own services for OSINT. I have huge plans and projects, but so far I put only the simplest projects in the public domain.
 
+
+Quick hashtags and keywords search (70 social media platform in one page)
+
+https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/
+
+
 Google Custom Search engine for searching 48 pastebin sites
 
 https://cipher387.github.io/pastebinsearchengines/
