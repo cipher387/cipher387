@@ -29,6 +29,10 @@ https://cipher387.github.io/code_repository_google_custom_search_engines/
 
 https://quickcacheandarchivesearch.onrender.com/
 
+GREP FOR OSINT is a set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails and nicknames)
+
+https://github.com/cipher387/grep_for_osint
+
 
 To be continued...
 
