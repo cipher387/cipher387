@@ -5,33 +5,24 @@ I follow a Twitter account where I post various practical notes about OSINT, wit
 
 <a href="https://twitter.com/Ivan30394639">Ivan30394639</a>
 
-I collect all useful and interesting links from my tweets on a separate site. There are already 371 tools there for various OSINT-related tasks
+I collect all useful and interesting links from my tweets on a separate site. 
 
-https://cipher387.github.io/osint_stuff_tool_collection/
+<a href="https://cipher387.github.io/osint_stuff_tool_collection/">371 tools for various OSINT-related tasks</a>
+
 
 I am also slowly developing my own services for OSINT. I have huge plans and projects, but so far I put only the simplest projects in the public domain.
 
 
-Quick hashtags and keywords search (70 social media platform in one page)
+<a href="https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/">Quick hashtags and keywords search (70 social media platform in one page)</a>
 
-https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/
+<a href="https://cipher387.github.io/pastebinsearchengines/">Google Custom Search engine for searching 48 pastebin sites</a>
 
+<a href="https://cipher387.github.io/code_repository_google_custom_search_engines/">Google Custom Search engine for searching 20 source code hosting services</a>
 
-Google Custom Search engine for searching 48 pastebin sites
+<a href="https://quickcacheandarchivesearch.onrender.com/">21 tools for searching cached and archived websites in one page</a>
 
-https://cipher387.github.io/pastebinsearchengines/
+<a href="https://github.com/cipher387/grep_for_osint">GREP FOR OSIN</a> — set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails and nicknames)
 
-Google Custom Search engine for searching 20 source code hosting services
-
-https://cipher387.github.io/code_repository_google_custom_search_engines/
-
-21 tools for searching cached and archived websites in one page
-
-https://quickcacheandarchivesearch.onrender.com/
-
-GREP FOR OSINT is a set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails and nicknames)
-
-https://github.com/cipher387/grep_for_osint
 
 
 To be continued...
