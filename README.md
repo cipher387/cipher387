@@ -21,7 +21,7 @@ I am also slowly developing my own services for OSINT. I have huge plans and pro
 
 <a href="https://quickcacheandarchivesearch.onrender.com/">21 tools for searching cached and archived websites in one page</a>
 
-<a href="https://github.com/cipher387/grep_for_osint">GREP FOR OSIN</a> — set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails and nicknames)
+<a href="https://github.com/cipher387/grep_for_osint">GREP FOR OSINT</a> — set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails and nicknames)
 
 
 
