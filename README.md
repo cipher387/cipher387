@@ -3,7 +3,7 @@ Hello, I am cipher387 (aka @ivan30394639). I am very passionate about OSINT (ope
 
 I follow a Twitter account where I post various practical notes about OSINT, with occasional distractions from other cybersecurity and tech-related topics.
 
- <a target="_blank" href="https://twitter.com/Ivan30394639" title="My Twitter"><img src="https://img.shields.io/badge/-@Rog3rSm1th-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ivan30394639"></a>
+ <a target="_blank" href="https://twitter.com/Ivan30394639" title="My Twitter"><img src="https://img.shields.io/badge/-@ivan30394639-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ivan30394639"></a>
 
 I collect all useful and interesting links from my tweets on a separate site. 
 
