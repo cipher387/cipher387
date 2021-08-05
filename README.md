@@ -7,7 +7,7 @@ I follow a Twitter account where I post various practical notes about OSINT, wit
 
 I collect all useful and interesting links from my tweets on a separate site. 
 
-<a href="https://cipher387.github.io/osint_stuff_tool_collection/">371 tools for various OSINT-related tasks</a>
+<a href="https://cipher387.github.io/osint_stuff_tool_collection/">404 tools for various OSINT-related tasks</a>
 
 
 I am also slowly developing my own services for OSINT. I have huge plans and projects, but so far I put only the simplest projects in the public domain.
