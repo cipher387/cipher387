@@ -1,5 +1,11 @@
+<span style="font-weight:bold;color:red">Мy Twitter account @ivan30394639 was blocked by the Twitter administration without explanation and without the possibility of restoration. Please subscribe to my new account @cyb_detective if you want to know news about Internet Intelligence tools.</span>
 
-Hello, I am cipher387 (aka @ivan30394639). I am very passionate about OSINT (open-source intelligence) and everything related to it.
+
+ <a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>
+
+
+
+Hello, I am cipher387 (aka @cyb_detective). I am very passionate about OSINT (open-source intelligence) and everything related to it.
 
 I follow a Twitter account where I post various practical notes about OSINT, with occasional distractions from other cybersecurity and tech-related topics.
 
