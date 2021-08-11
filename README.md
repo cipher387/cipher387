@@ -1,4 +1,4 @@
-<span style="font-weight:bold;color:red">Мy Twitter account @ivan30394639 was blocked by the Twitter administration without explanation and without the possibility of restoration. Please subscribe to my new account @cyb_detective if you want to know news about Internet Intelligence tools.</span>
+<p style="font-weight:bold;color:red">Мy Twitter account @ivan30394639 was blocked by the Twitter administration without explanation and without the possibility of restoration. Please subscribe to my new account @cyb_detective if you want to know news about Internet Intelligence tools.</p>
 
 
  <a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>
