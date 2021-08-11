@@ -9,7 +9,9 @@ Hello, I am cipher387 (aka @cyb_detective). I am very passionate about OSINT (op
 
 I follow a Twitter account where I post various practical notes about OSINT, with occasional distractions from other cybersecurity and tech-related topics.
 
- <a target="_blank" href="https://twitter.com/Ivan30394639" title="My Twitter"><img src="https://img.shields.io/badge/-@ivan30394639-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ivan30394639"></a>
+
+ <a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>
+
 
 I collect all useful and interesting links from my tweets on a separate site. 
 
