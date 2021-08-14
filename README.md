@@ -1,14 +1,6 @@
-<p style="font-weight:bold;color:red">Мy Twitter account @ivan30394639 was blocked by the Twitter administration without explanation and without the possibility of restoration. Please subscribe to my new account @cyb_detective if you want to know news about Internet Intelligence tools.</p>
 
-
- <a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>
  
- 
- Telegram https://t.me/cybdetective
-
-
-
-Hello, I am cipher387 (aka @cyb_detective). I am very passionate about OSINT (open-source intelligence) and everything related to it.
+Hello, I am cipher387 (aka <a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>). I am very passionate about OSINT (open-source intelligence) and everything related to it.
 
 I follow a Twitter account where I post various practical notes about OSINT, with occasional distractions from other cybersecurity and tech-related topics.
 
@@ -21,7 +13,10 @@ I collect all useful and interesting links from my tweets on a separate site.
 <a href="https://cipher387.github.io/osint_stuff_tool_collection/">404 tools for various OSINT-related tasks</a>
 
 
-I am also slowly developing my own services for OSINT. I have huge plans and projects, but so far I put only the simplest projects in the public domain.
+Archive of tweets from my suspensed account (Osint Stuff @Ivan30394639) — https://t.me/cybdetectivearchive (Telegram Channel)
+
+
+I am also on the sly developing my own services for OSINT. I have huge plans and projects, but so far I put only the simplest projects in the public domain.
 
 
 <a href="https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/">Quick hashtags and keywords search (70 social media platform in one page)</a>
