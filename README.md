@@ -21,6 +21,8 @@ I am also on the sly developing my own services for OSINT. I have huge plans and
 
 <a href="https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/">Quick hashtags and keywords search (70 social media platform in one page)</a>
 
+<a href="https://cipher387.github.io/domain_investigation_toolbox/">Domain Investigation Toolbox</a>
+
 <a href="https://cipher387.github.io/pastebinsearchengines/">Google Custom Search engine for searching 48 pastebin sites</a>
 
 <a href="https://cipher387.github.io/code_repository_google_custom_search_engines/">Google Custom Search engine for searching 20 source code hosting services</a>
