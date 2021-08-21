@@ -28,6 +28,12 @@ I am also on the sly developing my own services for OSINT. I have huge plans and
 
 <a href="https://cipher387.github.io/code_repository_google_custom_search_engines/">Google Custom Search engine for searching 20 source code hosting services</a>
 
+<a href="https://cipher387.github.io/venicle_number_search_toolbox/">Search information about car by venicle numbers of 14 different countries</a>
+<a href="https://cipher387.github.io/corporative_registry_worldwide_catalog/">Worldwide catalog of business registries</a>
+<a href="https://cipher387.github.io/collection_of_cadastral_maps/">Collection of cadastral maps</a>
+<a href="https://cipher387.github.io/domain_investigation_toolbox/ip.html">IP adress investigation toolbox</a>
+        
+
 <a href="https://quickcacheandarchivesearch.onrender.com/">21 tools for searching cached and archived websites in one page</a>
 
 <a href="https://github.com/cipher387/grep_for_osint">GREP FOR OSINT</a> — set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails and nicknames)
