@@ -37,7 +37,7 @@ I am also on the sly developing my own services for OSINT. I have huge plans and
 <a href="https://cipher387.github.io/domain_investigation_toolbox/ip.html">IP adress investigation toolbox</a>
         
 
-<a href="https://quickcacheandarchivesearch.onrender.com/">21 tools for searching cached and archived websites in one page</a>
+<a href="https://cipher387.github.io/quickcacheandarchivesearch/">27 tools for searching cached and archived websites in one page</a>
 
 <a href="https://github.com/cipher387/grep_for_osint">GREP FOR OSINT</a> — set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails and nicknames)
 
