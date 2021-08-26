@@ -6,6 +6,8 @@ I follow a Twitter account where I post various practical notes about OSINT, wit
 
 
  <a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>
+ 
+Copies of tweets from @cyber_detective in Telegram — https://t.me/cybdetective
 
 
 I collect all useful and interesting links from my tweets on a separate site. 
