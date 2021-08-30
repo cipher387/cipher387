@@ -12,7 +12,7 @@ Copies of tweets from @cyber_detective in Telegram — https://t.me/cybdetective
 
 I collect all useful and interesting links from my tweets on a separate site. 
 
-<a href="https://cipher387.github.io/osint_stuff_tool_collection/">404 tools for various OSINT-related tasks</a>
+<a href="https://cipher387.github.io/osint_stuff_tool_collection/">479 tools for various OSINT-related tasks</a>
 
 
 Archive of tweets from my suspensed account (Osint Stuff @Ivan30394639) — https://t.me/cybdetectivearchive (Telegram Channel)
