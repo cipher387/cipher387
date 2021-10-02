@@ -42,13 +42,15 @@ I am also on the sly developing my own services for OSINT. I have huge plans and
 
 <a href="https://cipher387.github.io/passengers_lists_and_migrants_records/" class="btn btn-primary" role="button">Collection of services for search data from passengers lists and emigrants records</a>
 
-<a href="https://cipher387.github.io/domain_investigation_toolbox/ip.html">IP adress investigation toolbox</a>
+<a href="https://cipher387.github.io/domain_investigation_toolbox/ip.html">IP address investigation toolbox</a>
         
 
 <a href="https://cipher387.github.io/quickcacheandarchivesearch/">27 tools for searching cached and archived websites in one page</a>
 
 <a href="https://github.com/cipher387/grep_for_osint">GREP FOR OSINT</a> — set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails and nicknames)
-
+<a href="https://www.getrevue.co/profile/cyb_detective?via=twitter-profile-webview">Email newsletter</a> — every 2-3 weeks I will send you a list of tools that will be useful for OSINT. All of them are first published on my Twitter @cyb_detective, and then they go to the main collection, which already has 550 tools.
+<a href="https://github.com/cipher387/Dorks-collections-list">Dorks collections list</a> — list of Github repositories and articles with list of dorks for different search engines.
+<a href="https://github.com/cipher387/Advanced-search-operators-list">Advanced search operators list</a> — list of the links to the docs for different services, which explain using of advanced search operators.
 
 
 To be continued...
