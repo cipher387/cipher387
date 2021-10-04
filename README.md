@@ -14,9 +14,6 @@ I collect all useful and interesting links from my tweets on a separate site.
 
 <a href="https://cipher387.github.io/osint_stuff_tool_collection/">505 tools for various OSINT-related tasks</a>
 
-<a href="https://github.com/cipher387/Dorks-collections-list">Dork collections list</a>
-
-
 Archive of tweets from my suspensed account (Osint Stuff @Ivan30394639) — https://t.me/cybdetectivearchive (Telegram Channel)
 
 
