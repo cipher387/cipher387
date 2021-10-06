@@ -7,17 +7,37 @@ I follow a Twitter account where I post various practical notes about OSINT, wit
 
  <a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>
  
-Copies of tweets from @cyber_detective in Telegram — https://t.me/cybdetective
-
+Copies of tweets from @cyber_detective in Telegram — https://t.me/cybdetective + + sometimes I post useful Telegram bots there
 
 I collect all useful and interesting links from my tweets on a separate site. 
 
 <a href="https://cipher387.github.io/osint_stuff_tool_collection/">505 tools for various OSINT-related tasks</a>
 
+
+<h1>My projects timeline</h1>
+
+<b>06.04.2021</b></br>
+
+I started my account @ivan30394639 in Twitter. It's already blocked today, but I copied it from Google Cache and saved it here:
+
+https://cipher387.github.io/ivan30394639_twitter_cached_version/
+
 Archive of tweets from my suspensed account (Osint Stuff @Ivan30394639) — https://t.me/cybdetectivearchive (Telegram Channel)
 
 
-I am also on the sly developing my own services for OSINT. I have huge plans and projects, but so far I put only the simplest projects in the public domain.
+<b>05.06.2021</b></br>
+
+I started to collect all useful and interesting links from my tweets on a separate site. 
+
+<a href="https://cipher387.github.io/osint_stuff_tool_collection/">505 tools for various OSINT-related tasks</a>
+
+<b>21.06.2021</b></br>
+
+<a href="https://cipher387.github.io/osint_stuff_tool_collection/court_search_list.html>Collection of sites for search courts rulings and cases</a>
+
+======================== (in progress)
+
+
 
 
 <a href="https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/">Quick hashtags and keywords search (86 social media platform in one page)</a>
