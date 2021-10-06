@@ -31,51 +31,71 @@ I started to collect all useful and interesting links from my tweets on a separa
 
 <a href="https://cipher387.github.io/osint_stuff_tool_collection/">505 tools for various OSINT-related tasks</a>
 
-<b>21.06.2021</b></br>
-
-<a href="https://cipher387.github.io/osint_stuff_tool_collection/court_search_list.html">Collection of sites for search courts rulings and cases</a>
-
-======================== (in progress)
-
-
-
-
-<a href="https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/">Quick hashtags and keywords search (86 social media platform in one page)</a>
-
-<a href="https://cipher387.github.io/domain_investigation_toolbox/">Domain Investigation Toolbox</a>
-<a href="https://cipher387.github.io/corporative_registry_worldwide_catalog/">Worldwide catalog of business registries</a>
-
-<a href="https://cipher387.github.io/pastebinsearchengines/">Google Custom Search engine for searching 48 pastebin sites</a>
+<b>15.06.2021</b></br>
 
 <a href="https://cipher387.github.io/code_repository_google_custom_search_engines/">Google Custom Search engine for searching 20 source code hosting services</a>
 
-<a href="https://cipher387.github.io/venicle_number_search_toolbox/">Search information about car by venicle numbers of 14 different countries</a>
+<b>June 2021</b></br>
 
-<a href="https://cipher387.github.io/corporative_registry_worldwide_catalog/">Worldwide catalog of business registries</a>
+<a href="https://cipher387.github.io/osint_stuff_tool_collection/court_search_list.html">Collection of sites for search courts rulings and cases</a>
 
-<a href="https://cipher387.github.io/collection_of_cadastral_maps/">Collection of cadastral maps</a>
+<a href="https://cipher387.github.io/osint_stuff_tool_collection/graves_search.html.html">Tools for finding graves and death notices collection</a>
 
-<a href="https://cipher387.github.io/public_transport_maps/" class="btn btn-primary" role="button">Collection of online public transport maps</a>
+<b>11.07.2021</b></br>
 
-<a href="https://cipher387.github.io/passengers_lists_and_migrants_records/" class="btn btn-primary" role="button">Collection of services for search data from passengers lists and emigrants records</a>
-
-<a href="https://cipher387.github.io/domain_investigation_toolbox/ip.html">IP address investigation toolbox</a>
-        
+<a href="https://cipher387.github.io/pastebinsearchengines/">Google Custom Search engine for searching 48 pastebin sites</a>
 
 <a href="https://cipher387.github.io/quickcacheandarchivesearch/">27 tools for searching cached and archived websites in one page</a>
 
+<b>25.07.2021</b></br>
+
+<a href="https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/">Quick hashtags and keywords search (86 social media platform in one page)</a>
+
+<b>01.08.2021</b></br>
+
 <a href="https://github.com/cipher387/grep_for_osint">GREP FOR OSINT</a> — set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails and nicknames).
 
-<a href="https://www.getrevue.co/profile/cyb_detective?via=twitter-profile-webview">Email newsletter</a> — every 2-3 weeks I will send you a list of tools that will be useful for OSINT. All of them are first published on my Twitter @cyb_detective, and then they go to the main collection, which already has 550 tools.
+<b>15.08.2021</b></br>
+
+<a href="https://cipher387.github.io/domain_investigation_toolbox/">Domain Investigation Toolbox</a>
+
+<b>16.08.2021</b></br>
+
+<a href="https://cipher387.github.io/venicle_number_search_toolbox/">Search information about car by venicle numbers of 14 different countries</a>
+
+<b>18.08.2021</b></br>
+
+<a href="https://cipher387.github.io/corporative_registry_worldwide_catalog/">Worldwide catalog of business registries</a>
+
+<b>20.08.2021</b></br>
+
+<a href="https://cipher387.github.io/collection_of_cadastral_maps/">Collection of cadastral maps</a>
+
+<b>25.08.2021</b></br>
+
+<a href="https://cipher387.github.io/domain_investigation_toolbox/ip.html">IP address investigation toolbox</a>
+
+<b>27.08.2021</b></br>
+
+<a href="https://cipher387.github.io/passengers_lists_and_migrants_records/" class="btn btn-primary" role="button">Collection of services for search data from passengers lists and emigrants records</a>
+
+<b>28.08.2021</b></br>
+
+<a href="https://cipher387.github.io/public_transport_maps/" class="btn btn-primary" role="button">Collection of online public transport maps</a>
+
+<b>19.09.2021</b></br>
 
 <a href="https://github.com/cipher387/Dorks-collections-list">Dorks collections list</a> — list of Github repositories and articles with list of dorks for different search engines.
 
+<b>21.09.2021</b></br>
+
 <a href="https://github.com/cipher387/Advanced-search-operators-list">Advanced search operators list</a> — list of the links to the docs for different services, which explain using of advanced search operators.
+
+<b>01.10.2021</b></br>
+
+<a href="https://www.getrevue.co/profile/cyb_detective?via=twitter-profile-webview">Email newsletter</a> — every 2-3 weeks I will send you a list of tools that will be useful for OSINT. All of them are first published on my Twitter @cyb_detective, and then they go to the main collection, which already has 550 tools.
 
 
 To be continued...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cipher387" alt="cipher387" /> </p>
-
-
-
