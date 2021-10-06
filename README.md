@@ -33,7 +33,7 @@ I started to collect all useful and interesting links from my tweets on a separa
 
 <b>21.06.2021</b></br>
 
-<a href="https://cipher387.github.io/osint_stuff_tool_collection/court_search_list.html>Collection of sites for search courts rulings and cases</a>
+<a href="https://cipher387.github.io/osint_stuff_tool_collection/court_search_list.html">Collection of sites for search courts rulings and cases</a>
 
 ======================== (in progress)
 
