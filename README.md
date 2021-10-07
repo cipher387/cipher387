@@ -96,6 +96,11 @@ I started to collect all useful and interesting links from my tweets on a separa
 <a href="https://www.getrevue.co/profile/cyb_detective?via=twitter-profile-webview">Email newsletter</a> — every 2-3 weeks I will send you a list of tools that will be useful for OSINT. All of them are first published on my Twitter @cyb_detective, and then they go to the main collection, which already has 550 tools.
 
 
+<b>07.10.2021</b></b>
+
+<a href="https://cipher387.github.io/osintmap/">Worldwide map of OSINT tools</a>
+
+
 To be continued...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cipher387" alt="cipher387" /> </p>
