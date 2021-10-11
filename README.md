@@ -14,6 +14,8 @@ I collect all useful and interesting links from my tweets on a separate site.
 <a href="https://cipher387.github.io/osint_stuff_tool_collection/">505 tools for various OSINT-related tasks</a>
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=cipher387&count_private=true&show_icons=true&theme=dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cipher387&theme=react)](https://git.io/streak-stats)
+<br/>
 
 
 <h1>My projects timeline</h1>
