@@ -104,6 +104,10 @@ I started to collect all useful and interesting links from my tweets on a separa
 
 <a href="https://cipher387.github.io/osintmap/">Worldwide map of OSINT tools</a>
 
+<b>29.10.2021</b></b>
+
+<a href="https://github.com/cipher387/API-s-for-OSINT">API-s-for-OSINT</a> — small list of APIs that will be useful for automating various tasks in OSINT
+
 
 To be continued...
 
