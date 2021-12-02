@@ -108,6 +108,13 @@ I started to collect all useful and interesting links from my tweets on a separa
 
 <a href="https://github.com/cipher387/API-s-for-OSINT">API-s-for-OSINT</a> — small list of APIs that will be useful for automating various tasks in OSINT
 
+<b>14.11.2021</b></b>
+
+Discord Server Cyb_detective created (look for a fresh link on my Twitter)
+
+<b>18.11.2021</b></b>
+
+<a href="https://t.co/ZoiiCGlClv">Linkedin group</a> — Irina Shamaeva gave me her old group with over 19,500 members
 
 To be continued...
 
