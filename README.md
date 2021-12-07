@@ -116,6 +116,10 @@ Discord Server Cyb_detective created (look for a fresh link on my Twitter)
 
 <a href="https://t.co/ZoiiCGlClv">Linkedin group</a> — Irina Shamaeva gave me her old group with over 19,500 members
 
+<b>05.12.2021</b></b>
+
+<a href="https://cipher387.github.io/quickgeolocationsearch/">Quick Geolocation Search</a> — this simple tool helps save a lot of time when gathering information about geolocation. Enter latitude and longitude once and click the buttons with the names of online maps, to quickly jump to it.
+
 To be continued...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cipher387" alt="cipher387" /> </p>
