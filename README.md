@@ -9,9 +9,9 @@ I follow a Twitter account where I post various practical notes about OSINT, wit
  
 Copies of tweets from @cyber_detective in Telegram — https://t.me/cybdetective + + sometimes I post useful Telegram bots there
 
-I collect all useful and interesting links from my tweets on a separate site. 
+I collect all useful and interesting links from my tweets on a separate repository. 
 
-<a href="https://cipher387.github.io/osint_stuff_tool_collection/">684 tools for various OSINT-related tasks</a>
+<a href="https://github.com/cipher387/osint_stuff_tool_collection">684 tools for various OSINT-related tasks</a>
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=cipher387&count_private=true&show_icons=true&theme=dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cipher387&theme=react)](https://git.io/streak-stats)
@@ -26,14 +26,13 @@ I started my account @ivan30394639 in Twitter. It's already blocked today, but I
 
 https://cipher387.github.io/ivan30394639_twitter_cached_version/
 
-Archive of tweets from my suspensed account (Osint Stuff @Ivan30394639) — https://t.me/cybdetectivearchive (Telegram Channel)
-
+An archive of tweets from the old account is also available on Telegram: https://t.me/cybdetectivearchive 
 
 <b>05.06.2021</b></br>
 
-I started to collect all useful and interesting links from my tweets on a separate site. 
+I started to collect all useful and interesting links from my tweets on a separate repo. 
 
-<a href="https://cipher387.github.io/osint_stuff_tool_collection/">505 tools for various OSINT-related tasks</a>
+<a href="https://github.com/cipher387/osint_stuff_tool_collection">More than 680 tools for various OSINT-related tasks</a>
 
 <b>15.06.2021</b></br>
 
@@ -49,11 +48,11 @@ I started to collect all useful and interesting links from my tweets on a separa
 
 <a href="https://cipher387.github.io/pastebinsearchengines/">Google Custom Search engine for searching 48 pastebin sites</a>
 
-<a href="https://cipher387.github.io/quickcacheandarchivesearch/">27 tools for searching cached and archived websites in one page</a>
+<a href="https://cipher387.github.io/quickcacheandarchivesearch/">38 tools for searching cached and archived websites in one page</a>
 
 <b>25.07.2021</b></br>
 
-<a href="https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/">Quick hashtags and keywords search (86 social media platform in one page)</a>
+<a href="https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/">Quick hashtags and keywords search (89 social media platform in one page)</a>
 
 <b>01.08.2021</b></br>
 
@@ -123,3 +122,6 @@ Discord Server Cyb_detective created (look for a fresh link on my Twitter)
 To be continued...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cipher387" alt="cipher387" /> </p>
+
+
+<a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>
