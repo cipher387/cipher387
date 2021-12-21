@@ -111,13 +111,17 @@ I started to collect all useful and interesting links from my tweets on a separa
 
 Discord Server Cyb_detective created (look for a fresh link on my Twitter)
 
-<b>18.11.2021</b></b>
+<b>18.11.2021</b>
 
 <a href="https://t.co/ZoiiCGlClv">Linkedin group</a> — Irina Shamaeva gave me her old group with over 19,500 members
 
-<b>05.12.2021</b></b>
+<b>05.12.2021</b>
 
 <a href="https://cipher387.github.io/quickgeolocationsearch/">Quick Geolocation Search</a> — this simple tool helps save a lot of time when gathering information about geolocation. Enter latitude and longitude once and click the buttons with the names of online maps, to quickly jump to it.
+
+
+<b>22.12.2021</b>
+<a href="https://cipher387.github.io/phonenumberqueryconstructor/">Phone Number Search Constructor</a> — tool that generates multiple writing options for a phone number (to effectively search for it using the OR operator in Google and Yandex)
 
 To be continued...
 
