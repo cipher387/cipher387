@@ -17,6 +17,22 @@ I collect all useful and interesting links from my tweets on a separate reposito
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cipher387&theme=react)](https://git.io/streak-stats)
 <br/>
 
+<hr>
+
+Twitter — https://twitter.com/cyb_detective
+
+Telegram — https://t.me/cybdetective
+
+Linkedin — https://www.linkedin.com/groups/1908171/
+
+Revue — https://www.getrevue.co/profile/cyb_detective
+
+Github — https://github.com/cipher387
+
+Discord — https://cipher387.github.io/discordlink.html
+
+<hr>
+
 
 <h1>My projects timeline</h1>
 
