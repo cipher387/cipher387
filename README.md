@@ -147,6 +147,16 @@ Discord Server Cyb_detective created (look for a fresh link on my Twitter)
 <b>28.03.2022</b>
 <a href="https://github.com/cipher387/code-understanding-tools">Code understanding tools</a>- list of tools for understanding other people's code.
 
+
+<b>18.04.2022</b>
+
+<a href="https://github.com/cipher387/awesome-grep">Awesome GREP</a> - list of GREP modifications and alternatives for a variety of purposes
+
+
+<b>07.05.2022</b>
+
+<a href="https://cipher387.github.io/webcamcse/">WebcamCSE</a> — Google Custom Search engine for searcing in webcams aggregators. 
+
 To be continued...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cipher387" alt="cipher387" /> </p>
