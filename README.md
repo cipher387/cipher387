@@ -126,14 +126,17 @@ Discord Server Cyb_detective created (look for a fresh link on my Twitter)
 
 
 <b>22.12.2021</b>
+
 <a href="https://cipher387.github.io/phonenumberqueryconstructor/">Phone Number Search Constructor</a> — tool that generates multiple writing options for a phone number (to effectively search for it using the OR operator in Google and Yandex)
 
 
 <b>02.02.2022</b>
+
 <a href="https://github.com/cipher387/maltego-transforms-list">Maltego transforms list</a>- list of tools that handle different data and make it usable in Maltego.
 
 
 <b>28.03.2022</b>
+
 <a href="https://github.com/cipher387/code-understanding-tools">Code understanding tools</a>- list of tools for understanding other people's code.
 
 
