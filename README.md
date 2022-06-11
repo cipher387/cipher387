@@ -12,23 +12,21 @@ Main projects:
 
 <a href="https://cipher387.github.io/osintmap/">Worldwide map of OSINT tools</a>
 
-<hr>
 
-![My stats](https://github-readme-stats.vercel.app/api?username=cipher387&count_private=true&show_icons=true&theme=dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cipher387&theme=react)](https://git.io/streak-stats)
-<br/>
+<hr>
 
 Twitter — https://twitter.com/cyb_detective
 
 Telegram — https://t.me/cybdetective
 
-Revue — https://www.getrevue.co/profile/cyb_detective
-
-Github — https://github.com/cipher387
-
-Discord — https://cipher387.github.io/discordlink.html
-
 <hr>
+
+
+
+![My stats](https://github-readme-stats.vercel.app/api?username=cipher387&count_private=true&show_icons=true&theme=dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cipher387&theme=react)](https://git.io/streak-stats)
+<br/>
+
 
 
 <h1>My projects timeline</h1>
