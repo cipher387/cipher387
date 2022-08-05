@@ -157,8 +157,6 @@ Discord Server Cyb_detective created (look for a fresh link on my Twitter)
 
 To be continued...
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cipher387" alt="cipher387" /> </p>
-
 
 <hr>
 
