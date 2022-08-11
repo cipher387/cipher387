@@ -10,7 +10,7 @@ Main projects:
 <a href="https://github.com/cipher387/Dorks-collections-list">Dorks collections list</a>
 
 
-<a href="https://cipher387.github.io/osintmap/">Worldwide map of OSINT tools</a>
+<a href="https://cipher387.github.io/osintmap/">Worldwide map of 600+ OSINT tools</a>
 
 
 <hr>
