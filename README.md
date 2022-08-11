@@ -4,7 +4,7 @@ Hello, I am cipher387 (aka <a target="_blank" href="https://twitter.com/cyb_dete
 
 Main projects: 
 
-<a href="https://github.com/cipher387/osint_stuff_tool_collection"1000+ tools for various OSINT-related tasks</a>
+<a href="https://github.com/cipher387/osint_stuff_tool_collection">1000+ tools for various OSINT-related tasks</a>
 
 
 <a href="https://github.com/cipher387/Dorks-collections-list">Dorks collections list</a>
