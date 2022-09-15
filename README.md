@@ -2,7 +2,7 @@
  
 Hello, I am cipher387 (aka <a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>) and https://t.me/cybdetective. I am very passionate about OSINT (Open Source Intelligence) and everything related to it.
 
-Main projects: 
+Main projects (highly recommend reading): 
 
 
 <table>
@@ -23,6 +23,14 @@ Main projects:
 
 </table>
 
+
+Other interesting projects: 
+
+<a href="https://github.com/cipher387/Dorks-collections-list">Dorks collection list</a>
+<a href="https://github.com/cipher387/API-s-for-OSINT">APIs for OSINT</a>
+<a href="https://github.com/cipher387/Advanced-search-operators-list">Advanced search operators list</a>
+<a href="https://github.com/cipher387/Python-osint-automation-examples">Python OSINT automation examples</a>
+<a href="https://cipher387.github.io/quickgeolocationsearch/">Quick geolocation search</a>
 
 
 
