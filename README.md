@@ -25,8 +25,7 @@ Main projects:
 
 
 
-![My stats](https://github-readme-stats.vercel.app/api?username=cipher387&count_private=true&show_icons=true&theme=dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cipher387&theme=react)](https://git.io/streak-stats)
+
 <br/>
 
 
@@ -177,3 +176,8 @@ Github — https://github.com/cipher387
 Discord — https://cipher387.github.io/discordlink.html
 
 <hr>
+
+
+
+![My stats](https://github-readme-stats.vercel.app/api?username=cipher387&count_private=true&show_icons=true&theme=dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cipher387&theme=react)](https://git.io/streak-stats)
