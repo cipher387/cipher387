@@ -157,6 +157,12 @@ Discord Server Cyb_detective created (look for a fresh link on my Twitter)
 
 <a href="https://cipher387.github.io/webcamcse/">WebcamCSE</a> — Google Custom Search engine for searcing in webcams aggregators. 
 
+
+
+<b>06.09.2022</b>
+
+<a href="https://github.com/cipher387/Python-osint-automation-examples">Python osint automation examples</a> — In this repository, I will collect quick and simple code examples that use Python to automate various #osint tasks.
+
 To be continued...
 
 
