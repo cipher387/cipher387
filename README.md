@@ -11,7 +11,7 @@ Main projects:
 <a href="https://cipher387.github.io/osintmap/">Worldwide map of 650+ OSINT tools</a>
  
 
-<img src="https://github.com/cipher387/cipher387/blob/main/images/osintmap.png" width="300" />
+<img src="https://github.com/cipher387/cipher387/blob/main/images/osintmap.png" width="400" />
  </td>
  <td>
 
