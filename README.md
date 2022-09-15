@@ -19,8 +19,6 @@ Main projects:
 
 <img src="https://github.com/cipher387/cipher387/blob/main/images/main_collection.png" width="300" />
 
-
-<a href="https://github.com/cipher387/Dorks-collections-list">Dorks collections list</a>
  </td></tr>
 
 </table>
