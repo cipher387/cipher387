@@ -4,15 +4,20 @@ Hello, I am cipher387 (aka <a target="_blank" href="https://twitter.com/cyb_dete
 
 Main projects: 
 
+
+<a href="https://cipher387.github.io/osintmap/">Worldwide map of 650+ OSINT tools</a>
+
+<img src="https://github.com/cipher387/cipher387/blob/main/images/osintmap.png" width="300" />
+
 <a href="https://github.com/cipher387/osint_stuff_tool_collection">1000+ tools for various OSINT-related tasks</a>
+
+<img src="https://github.com/cipher387/cipher387/blob/main/images/main_collection.png" width="300" />
 
 
 <a href="https://github.com/cipher387/Dorks-collections-list">Dorks collections list</a>
 
 
-<a href="https://cipher387.github.io/osintmap/">Worldwide map of 600+ OSINT tools</a>
 
-<img src="https://github.com/cipher387/cipher387/blob/main/images/osintmap.png" width="300" />
 
 
 <hr>
