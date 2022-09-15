@@ -27,9 +27,13 @@ Main projects (highly recommend reading):
 Other interesting projects: 
 
 <a href="https://github.com/cipher387/Dorks-collections-list">Dorks collection list</a>
+
 <a href="https://github.com/cipher387/API-s-for-OSINT">APIs for OSINT</a>
+
 <a href="https://github.com/cipher387/Advanced-search-operators-list">Advanced search operators list</a>
+
 <a href="https://github.com/cipher387/Python-osint-automation-examples">Python OSINT automation examples</a>
+
 <a href="https://cipher387.github.io/quickgeolocationsearch/">Quick geolocation search</a>
 
 
