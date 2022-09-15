@@ -17,7 +17,7 @@ Main projects:
 
 <a href="https://github.com/cipher387/osint_stuff_tool_collection">1000+ tools for various OSINT-related tasks</a>
 
-<img src="https://github.com/cipher387/cipher387/blob/main/images/main_collection.png" width="300" />
+<img src="https://github.com/cipher387/cipher387/blob/main/images/main_collection.png" width="400" />
 
  </td></tr>
 
