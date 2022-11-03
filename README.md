@@ -37,6 +37,7 @@ Other interesting projects:
 <a href="https://cipher387.github.io/quickgeolocationsearch/">Quick geolocation search</a>
 
 
+All my pages: https://linktr.ee/cyb_detective
 
 <br/>
 
