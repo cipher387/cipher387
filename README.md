@@ -1,6 +1,6 @@
 
  
-Hello, I am cipher387 (aka <a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>) and https://t.me/cybdetective. I am very passionate about OSINT (Open Source Intelligence) and everything related to it.
+Hello, I am cipher387 (aka <a target="_blank" href="https://twitter.com/cyb_detective" title="My Twitter"><img src="https://img.shields.io/badge/-@cyb_detective-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cyb_detective"></a>) and [https://t.me/cybdetective](https://linktr.ee/cyb_detective). I am very passionate about OSINT (Open Source Intelligence) and everything related to it.
 
 Main projects (highly recommend reading): 
 
@@ -37,7 +37,6 @@ Other interesting projects:
 <a href="https://cipher387.github.io/quickgeolocationsearch/">Quick geolocation search</a>
 
 
-All my pages: https://linktr.ee/cyb_detective
 
 <br/>
 
