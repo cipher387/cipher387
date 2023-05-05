@@ -34,8 +34,6 @@ Other interesting projects:
 
 <a href="https://github.com/cipher387/Advanced-search-operators-list">Advanced search operators list</a>
 
-<a href="https://github.com/cipher387/Python-osint-automation-examples">Python OSINT automation examples</a>
-
 <a href="https://cipher387.github.io/quickgeolocationsearch/">Quick geolocation search</a>
 
 
