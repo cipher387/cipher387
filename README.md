@@ -26,7 +26,7 @@ Main projects (highly recommend reading):
 
 Other interesting projects: 
 
-<a href="https://github.com/cipher387/Dorks-collections-list](https://github.com/cipher387/python-for-OSINT-21-days">Python for OSINT. 21 days course for beginners</a>
+<a href="https://github.com/cipher387/python-for-OSINT-21-days">Python for OSINT. 21 days course for beginners</a>
 
 <a href="https://github.com/cipher387/Dorks-collections-list">Dorks collection list</a>
 
