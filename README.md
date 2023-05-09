@@ -7,6 +7,13 @@ Main projects (highly recommend reading):
 
 <table>
 <tr>
+ 
+ <td>
+  
+  <a href="https://cipher387.github.io/osintmap/https://github.com/cipher387/python-for-OSINT-21-days">Python for OSINT. A 21-day course for beginners</a>
+  
+ <img src="https://github.com/cipher387/cipher387/blob/main/images/python_course.png" width="400" />
+ </td>
 <td>
 <a href="https://cipher387.github.io/osintmap/">Worldwide map of 650+ OSINT tools</a>
  
@@ -19,7 +26,9 @@ Main projects (highly recommend reading):
 
 <img src="https://github.com/cipher387/cipher387/blob/main/images/main_collection.png" width="400" />
 
- </td></tr>
+ </td>
+ 
+ </tr>
 
 </table>
 
