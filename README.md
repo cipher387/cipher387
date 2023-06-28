@@ -201,20 +201,20 @@ Discord Server Cyb_detective created (look for a fresh link on my Twitter)
 
 <a href="https://github.com/cipher387/regex-for-OSINT">Regex for OSINT</a> — list of application tools and information resources to help you effectively use regular expressions in OSINT (Open Source Intelligence)
 
-To be continued...
+<b>07.05.2023</b> 
+
+Python for OSINT. 21 day course for beginners
 
 
-<hr>
 
-Twitter — https://twitter.com/cyb_detective
 
-Telegram — https://t.me/cybdetective
+<b>21.06.2022</b> 
 
-Github — https://github.com/cipher387
+<b>The end</b>
 
-Discord — https://cipher387.github.io/discordlink.html
 
-<hr>
+
+
 
 
 
