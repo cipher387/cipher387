@@ -1,6 +1,6 @@
 
 
-<b>[cyb_detective project stopped. Alll repositories archived]</b>
+<b>[cyb_detective project stopped. All repositories archived]</b>
 
 
 
