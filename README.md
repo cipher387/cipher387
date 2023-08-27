@@ -143,9 +143,6 @@ I started to collect all useful and interesting links from my tweets on a separa
 
 Discord Server Cyb_detective created (look for a fresh link on my Twitter)
 
-<b>18.11.2021</b>
-
-<a href="https://t.co/ZoiiCGlClv">Linkedin group</a> — Irina Shamaeva gave me her old group with over 19,500 members
 
 <b>05.12.2021</b>
 
