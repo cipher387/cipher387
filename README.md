@@ -189,15 +189,29 @@ Discord Server Cyb_detective created (look for a fresh link on my Twitter)
 
 <b>07.05.2023</b> 
 
-Python for OSINT. 21 day course for beginners
+<a href="https://github.com/cipher387/python-for-OSINT-21-days">Python for OSINT. 21 day course for beginners</a>
 
 
 
 
-<b>21.06.2022</b> 
+<b>21.06.2023</b> 
 
-<b>The end</b>
+<b>I've decided to finish the Cyb_detective project</b>
 
+
+<b>23.06.2023</b> 
+
+I'm starting a new Twitter account <a href="https://twitter.com/irina_tech_tips">@irina_tech_tips</a> (not about OSINT, but about useful tools in general)
+
+
+<b>11.07.2023</b> 
+
+I decide to continue the cyb_detective project.
+
+
+<b>24.08.2023</b> 
+
+I'm finally registering the <a href="cybdetective.com">cybdetective.com</a> domain.
 
 
 
