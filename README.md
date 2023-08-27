@@ -211,7 +211,7 @@ I decide to continue the cyb_detective project.
 
 <b>24.08.2023</b> 
 
-I'm finally registering the <a href="cybdetective.com">cybdetective.com</a> domain.
+I'm finally registering the <a href="https://cybdetective.com">cybdetective.com</a> domain.
 
 
 
