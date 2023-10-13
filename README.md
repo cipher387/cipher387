@@ -42,7 +42,7 @@ Other interesting projects:
 
 <a href="https://github.com/cipher387/Advanced-search-operators-list">Advanced search operators list</a>
 
-<a href="https://cipher387.github.io/quickgeolocationsearch/">Quick geolocation search</a>
+<a href="https://github.com/netlas-io/netlas-cookbook">Netlas Cookbook</a>
 
 
 
